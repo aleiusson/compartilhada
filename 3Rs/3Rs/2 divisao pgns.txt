@@ -1,0 +1,25 @@
+1 -
+
+index 
+recompensas
+Sobre o Site
+contato
+como reciclar
+cadastro
+
+2-
+index logado
+Seus pontos
+Ranking 
+historico
+Agendar coleta
+pontos de descarte
+
+
+3-
+Fórum
+Postagem (ex:brejeirao)
+artigo
+escrever artigo
+tipos de materiais
+(alguma pgn que ainda n tem)

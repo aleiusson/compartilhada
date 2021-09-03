@@ -1,0 +1,20 @@
+17/15 páginas
+
+
+1- artigos.html
+2- agendar-coleta.html
+3- cadastro.html
+4- contato.html
+5- como-reciclar.html
+6- escrever-artigo.html
+7- forum.html
+8- historico.html
+9- index.html
+10-index-logado.html
+11-pontos-de-descarte.html
+12-postagem-problema-na-coleta-no-brejerao.html
+13-recompensa.html
+14-ranking.html
+15-sobre-o-site.html
+16-seus-pontos.html
+17-tipos-de-materiais.html

@@ -1,0 +1,16 @@
+<a href="index.html">*Página inicial*</a>
+<a href="index-logado.html">*Login*</a>
+<a href="ranking.html">*Ranking*</a>
+<a href="historico.html">*Historico*</a>
+<a href="como-reciclar.html">*Como Reciclar*</a>
+<a href="tipos-de-materiais.html">*Tipos de Materiais*</a>
+<a href="agendar-coleta.html">*Agendar Coleta*</a>
+<a href="pontos-de-descarte.html">*Pontos de coleta*</a>
+<a href="forum.html">Forum</a>
+<a href="forum-problemas-na-coleta.html"></a>
+<a href="artigos.html">*Artigos*</a>
+<a href="escrever-artigo.html"></a>
+<a href="postagem-problema-na-coleta-no-brejerao.html"></a>
+<a href="contato.html">*Contato*</a>
+<a href="sobre-o-site.html">*Sobre o Site*</a>
+<a href="cadastro.html">*Cadastro*</a>
